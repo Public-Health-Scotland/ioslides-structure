@@ -15,3 +15,13 @@ To view the slides, click the `Knit` button inside RStudio. A set of html slides
 
 This template aims to instil best practice within PHI and therefore git has been initiliased for version control. However, if you are not 
 using git then you can delete the .gitignore file. More information about [version control](https://github.com/NHS-NSS-transforming-publications/resources/blob/master/version-control.md).
+
+# Examples
+
+Examples of slides produced in this format using R:
+
+https://github.com/NHS-NSS-transforming-publications/rssconf2018
+
+https://github.com/NHS-NSS-transforming-publications/uRos2018
+
+https://github.com/NHS-NSS-transforming-publications/RAP-presentation
