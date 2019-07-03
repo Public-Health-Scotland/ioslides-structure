@@ -1,6 +1,6 @@
 
 /* adds NHS logo in top right and circles in bottom right of all slides */
-slides > slide.backdrop {
+slides > slide {
   background: white;
   background-image: url("images/slide_background.png");
   background-size: cover;
