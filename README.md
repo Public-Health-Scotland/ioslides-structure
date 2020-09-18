@@ -14,14 +14,14 @@ To use this template, download the repository as a zip file and save it to your 
 To view the slides, click the `Knit` button inside RStudio. A set of html slides will be created, which can be viewed within RStudio or opened in a browser. The slides can also be published to [RPubs](https://rpubs.com/), which is free and allows you to view your slides without R.
 
 This template aims to instil best practice within PHI and therefore git has been initiliased for version control. However, if you are not 
-using git then you can delete the .gitignore file. More information about [version control](https://github.com/NHS-NSS-transforming-publications/resources/blob/master/version-control.md).
+using git then you can delete the .gitignore file. More information about [version control](https://github.com/Public-Health-Scotland/resources/blob/master/version-control.md).
 
 # Examples
 
 Examples of slides produced in this format using R:
 
-https://github.com/NHS-NSS-transforming-publications/rssconf2018
+https://github.com/Public-Health-Scotland/rssconf2018
 
-https://github.com/NHS-NSS-transforming-publications/uRos2018
+https://github.com/Public-Health-Scotland/uRos2018
 
-https://github.com/NHS-NSS-transforming-publications/RAP-presentation
+https://github.com/Public-Health-Scotland/RAP-presentation
